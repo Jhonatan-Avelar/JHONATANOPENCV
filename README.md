@@ -1,0 +1,1 @@
+Programa utiliza a biblioteca opencv em seu funcionamento. Recebe uma série de fotos, uma por uma faz o reconhecimento facil, mede as dimensões, corta a foto e salva novamente. O fluxo principal acontece no arquivo "convert.py"
